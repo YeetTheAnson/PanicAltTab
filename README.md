@@ -37,4 +37,4 @@ https://github.com/user-attachments/assets/24bdb2cf-db67-40d9-aaa6-90c7de51fd9e
 Set this up
 - Beside your door to switch tabs when it opens
 - Beside your laptop if you're sitting by the wall
-- Facing upwards
+- Facing upwards, acting as a hotkey to alt tab with a gesture
