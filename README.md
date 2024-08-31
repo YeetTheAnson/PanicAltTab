@@ -2,7 +2,7 @@
 Quickly alt tab when someone walks in on you (Coding when you're supposed to be studying)
 Coding while you're supposed to do homework? Quickly alt tab when somebody walks past
 
-![PanicAltTab](https://github.com/YeetTheAnson/PanicAltTab/raw/main/1.png)
+![PanicAltTab](https://github.com/YeetTheAnson/PanicAltTab/raw/main/1.jpg)
 
 Watch the demo video below
 
